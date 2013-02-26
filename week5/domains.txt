@@ -1,0 +1,3 @@
+sub1.mackinleysmith.com
+sub2.mackinleysmith.com
+166.78.3.56
