@@ -1,9 +1,0 @@
-4.0 Project by MacKinley Smith
-
-Server: 166.78.149.157
-User: jeffs
-Password: poop
-Port: 62892
-Mysql root pass: poop
-Firewall: ufw
-Allowed ports: 80 (http), 9418 (git), 62892 (custom ssh)
